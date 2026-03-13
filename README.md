@@ -134,8 +134,10 @@ Accuracy: ~79.8%
 A bar chart was created to compare the accuracy of all machine learning models.
 This helps identify which algorithm performs best for the churn prediction problem.
 
-Key Insights
+Key Insights:
 
 Customers with short tenure are more likely to churn
+
 Customers with higher monthly charges have higher churn probability
+
 Machine learning models can help companies predict churn and improve retention strategies
